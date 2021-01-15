@@ -3,8 +3,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a platform for university laboratories by @peerlab-devs as well ass doing my masters in mechanical engineering at @lmp-ufsc-br.
-- 🌱 I’m currently learning Next.js and Three.js in order to create 3D visualizations in SSR websites. That would be useful for mechanical engineering future web applications.
+- 🔭 I’m currently working on a platform for university laboratories by @peerlab-devs as well as finishing my masters at @lmp-ufsc-br.
+- 🌱 I’m currently learning Next.js and Three.js in order to create 3D visualizations in SSR websites.
 
 <!--
 **amaralc/amaralc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

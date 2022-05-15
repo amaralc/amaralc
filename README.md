@@ -23,4 +23,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 📚 Take a look at some of my projects available [here](https://github.com/amaralc/list-of-projects)
+
+
+Check ideas for future updates: https://github.com/amaralc/github-readme-stats
 -->

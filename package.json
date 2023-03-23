@@ -9,7 +9,8 @@
     "prepare": "husky install",
     "pre-commit": "echo 'Running pre commit hook...'",
     "release:no-push": "lerna version --conventional-commits --changelog-preset ./changelog-preset.config.js --yes --no-push",
-    "release": "lerna version --conventional-commits --changelog-preset ./changelog-preset.config.js --yes"
+    "release": "lerna version --conventional-commits --changelog-preset ./changelog-preset.config.js --yes",
+    "generate-md": "cp README.html README.md"
   },
   "dependencies": {
     "conventional-changelog-conventionalcommits": "^5.0.0",

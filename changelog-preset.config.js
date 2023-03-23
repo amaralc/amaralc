@@ -8,20 +8,9 @@
  *
  * Example: yarn lerna version --yes --conventional-commits --changelog-preset ./changelog-preset.config.js
  */
-// module.exports = Promise.resolve()
-//   .then(() => require('conventional-changelog-conventionalcommits'))
-//   .then((presetPromise) => presetPromise())
-//   .then((preset) => {
-//     console.log('preset:before', preset.writerOpts);
-//     preset.writerOpts.commitUrlFormat = '{{host}}/{{owner}}/{{repository}}/commits/{{hash}}';
-//     preset.writerOpts.compareUrlFormat = '{{host}}/{{owner}}/{{repository}}/compare/{{currentTag}}%0D{{previousTag}}';
-//     console.log('preset:after', preset.writerOpts);
-//     return preset;
-//   });
-// // Alternative way of using this config file
-const config = require('conventional-changelog-conventionalcommits');
 
+const config = require('conventional-changelog-conventionalcommits');
 module.exports = config({
-   commitUrlFormat: "{{host}}/{{owner}}/{{repository}}/commits/{{hash}}",
-   compareUrlFormat: "{{host}}/{{owner}}/{{repository}}/branches/compare/{{currentTag}}%0D{{previousTag}}"
+   commitUrlFormat: "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
+   compareUrlFormat: "{{host}}/{{owner}}/{{repository}}/branches/compare/{{currentTag}}...{{previousTag}}"
 });

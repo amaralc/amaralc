@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.2](https://github.com/amaralc/amaralc/branches/compare/amaralc@1.2.2...amaralc@1.2.1) (2023-03-25)
+
+
+### Bug Fixes
+
+* remove space ([5eeb38a](https://github.com/amaralc/amaralc/commit/5eeb38aa4615ac9300e6348d42d5a9e69ebf9958))
+
+
+
 ## [1.2.1](https://github.com/amaralc/amaralc/branches/compare/amaralc@1.2.1...amaralc@1.2.0) (2023-03-25)
 
 **Note:** Version bump only for package amaralc

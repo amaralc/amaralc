@@ -1,7 +1,5 @@
 <img src="./assets/amaralc-background.png" alt="Calil Amaral" />
 
-<br />
-
 <div align="center">
   <h2>⚙️💻 Calil Amaral</h2>
 </div>

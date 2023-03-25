@@ -17,8 +17,6 @@
   /></a>
 </div>
 
-<br />
-
 <div align="center">
   <img
     height="180em"
@@ -26,7 +24,6 @@
   />
 </div>
 
-<br />
 <hr />
 
 <div align="center">

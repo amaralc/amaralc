@@ -3,6 +3,16 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.0](https://github.com/amaralc/amaralc/branches/compare/amaralc@1.2.0...amaralc@1.1.0) (2023-03-25)
+
+
+### Features
+
+* add contact and tools ([a6abc96](https://github.com/amaralc/amaralc/commit/a6abc9697cf513038a32d0aa028c7834fbaa493c))
+* use html as default and copy to md for visualization ([71b60c0](https://github.com/amaralc/amaralc/commit/71b60c083adfb7946d6edb8f26a6ac3a9ccd8de1))
+
+
+
 ## 1.1.0 (2023-03-23)
 
 

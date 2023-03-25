@@ -11,6 +11,6 @@
 
 const config = require('conventional-changelog-conventionalcommits');
 module.exports = config({
-   commitUrlFormat: "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
-   compareUrlFormat: "{{host}}/{{owner}}/{{repository}}/branches/compare/{{currentTag}}...{{previousTag}}"
+   // commitUrlFormat: "{{host}}/{{owner}}/{{repository}}/commit/{{hash}}",
+   // compareUrlFormat: "{{host}}/{{owner}}/{{repository}}/branches/compare/{{currentTag}}...{{previousTag}}"
 });

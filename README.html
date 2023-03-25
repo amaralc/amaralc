@@ -205,8 +205,13 @@
   </li>
   <li>
     🚀 Check out
-    <a href="http://" target="_blank" rel="noopener noreferrer">here</a> some
-    books, workshops and tutorials I have been following.
+    <a
+      href="https://github.com/amaralc/courses-and-bootcamps"
+      target="_blank"
+      rel="noopener noreferrer"
+      >here</a
+    >
+    some books, workshops and tutorials I have been following.
   </li>
 </ul>
 

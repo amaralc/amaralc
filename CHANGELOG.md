@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.1](https://github.com/amaralc/amaralc/compare/amaralc@1.1.0...amaralc@1.1.1) (2023-03-25)
+
+
+### Bug Fixes
+
+* adjust url ([5ce8ad3](https://github.com/amaralc/amaralc/commit/5ce8ad35e21ccc444e345eb13f5acb97cdbaf81f))
+
+
+
 ## 1.1.0 (2023-03-25)
 
 

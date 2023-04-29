@@ -22,15 +22,12 @@
 <div align="center">
   <img
     height="180em"
-    src="http://github-readme-streak-stats.herokuapp.com?user=amaralc&theme=dark&date_format=%5BY%20%5DM%20j"
-  />
-</div>
-
-<div align="center">
-  <img
-    height="180em"
     src="https://github-readme-stats.vercel.app/api?username=amaralc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"
   />
+  <img
+    height="180em"
+    src="http://github-readme-streak-stats.herokuapp.com?user=amaralc&theme=dark&date_format=%5BY%20%5DM%20j"
+  />   
 </div>
 
 <hr />
